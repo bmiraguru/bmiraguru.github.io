@@ -1,4 +1,4 @@
-# Lead Talent Reporting Analyst
+# Lead Analyst, Talent Reporting
 
 ### Bio
 Test bio info.
