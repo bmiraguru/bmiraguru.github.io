@@ -1,4 +1,4 @@
-# Lead Analyst, Talent Reporting
+# Lead Data Analyst, Talent Reporting
 
 ### Bio
 Hello, I'm Balamira Gurumoorthy. With six years of hands-on experience as a data analyst, I've made it my mission to turn data into actionable insights in the HR space.
