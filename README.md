@@ -13,6 +13,6 @@ But I'm more than just a data geek; I'm a storyteller. I have a knack for transf
 To be added.
 
 ### Education
-To be added.
+Bachelors of Technology-Information Technology 
 
 
